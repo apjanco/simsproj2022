@@ -6,10 +6,10 @@
                                 http://www.openarchives.org/OAI/2.0/static-repository.xsd">
     <Identify>
         <oai:repositoryName>Moving Stories Project</oai:repositoryName>
-        <oai:baseURL>http://gateway.institution.org/oai/hnswans.github.io/simsproj2022/oai.xml</oai:baseURL>
+        <oai:baseURL>http://gateway.institution.org/oai/apjanco.github.io/simsproj2022/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
-        <oai:earliestDatestamp>2022-07-29</oai:earliestDatestamp>
+        <oai:earliestDatestamp>2022-08-03</oai:earliestDatestamp>
         <oai:deletedRecord>no</oai:deletedRecord>
         <oai:granularity>YYYY-MM-DD</oai:granularity>
     </Identify>
