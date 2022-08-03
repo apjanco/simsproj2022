@@ -1,2 +1,1582 @@
-{ "objects": [
+{ "objects": [{ 
+        "title": "Free Library of Philadelphia Lewis O 98",
+        
+        "date": "1816",
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "Philadelphia, PA",
+        "latitude": "39.9525839",
+        "longitude": "-75.1652215",
+        
+        
+        
+        
+        
+        
+        
+        "object_thumb": "https://openn.library.upenn.edu/Data/0023/lewis_o_098/data/thumb/9525_0086_thumb.jpg",
+        "object_location": "https://openn.library.upenn.edu/Data/0023/html/lewis_o_098.html",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_001.html"
+    },
+    { 
+        "title": "Philadelphia Museum of Art 1945-65-22(1a--255b)",
+        
+        "date": "1743",
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "Philadelphia, PA",
+        "latitude": "39.9525839",
+        "longitude": "-75.1652215",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://philamuseum.org/collection/object/49733",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_002.html"
+    },
+    { 
+        "title": "British Library Or 11721",
+        
+        "date": "1750",
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        "source": "Nur Sobers-Khan, 'Bibliography and notes: Primary sources in the British Library for the study of Hir Ranjha and the Qissa genre and the historical and literary context'",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://www.academia.edu/28743063/Bibliography_and_notes_Primary_sources_in_the_British_Library_for_the_study_of_Hir_Ranjha_and_the_Qissa_genre_and_the_historical_and_literary_context_for_the_conference_The_Past_Before_Us_History_and_Heritage_in_South_Asia_British_Library_and_SOAS_London_5_September_2016_",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_003.html"
+    },
+    { 
+        "title": "British Library IO Islamic 2621",
+        
+        
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        "source": "J.F. Blumhardt, Catalogue of the Hindustani Manuscripts in the Library of the India Office (London: Oxford University Press, 1926), #104",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://babel.hathitrust.org/cgi/pt?id=wau.39352009886508&view=1up&seq=74",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_004.html"
+    },
+    { 
+        "title": "British Library IO Islamic 3040",
+        
+        
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        "source": "J.F. Blumhardt, Catalogue of the Hindustani Manuscripts in the Library of the India Office (London: Oxford University Press, 1926), #105",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://babel.hathitrust.org/cgi/pt?id=wau.39352009886508&view=1up&seq=75 ",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_005.html"
+    },
+    { 
+        "title": "British Library IO Islamic 2486",
+        
+        "date": "1820",
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        "source": "J.F. Blumhardt, Catalogue of the Hindustani Manuscripts in the Library of the India Office (London: Oxford University Press, 1926), #106",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://babel.hathitrust.org/cgi/pt?id=wau.39352009886508&view=1up&seq=76 ",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_006.html"
+    },
+    { 
+        "title": "British Library IO Islamic 1434",
+        
+        "date": "1820",
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        "source": "J.F. Blumhardt, Catalogue of the Hindustani Manuscripts in the Library of the India Office (London: Oxford University Press, 1926), #107",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://babel.hathitrust.org/cgi/pt?id=wau.39352009886508&view=1up&seq=77 ",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_007.html"
+    },
+    { 
+        "title": "British Library Or 1059",
+        
+        
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        "source": "J.F. Blumhardt, Catalogue of the Hindi, Panjabi and Hindustandi Manuscripts in the Library of the British Museum, #45",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112084973475&view=1up&seq=78&skin=2021",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_008.html"
+    },
+    { 
+        "title": "Bodleian Ms Urdu e2",
+        
+        
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        "source": "Hermann Ethé, Catalogue of the Persian, Turkish, Hindustani and Pashto Manuscripts in the Bodleian Library, vol. 2, 3 vols. (Oxford: Clarendon Press, 1930), #2320",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_009.html"
+    },
+    { 
+        "title": "Salar Jung Museum 126",
+        
+        "date": "1699",
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Kalpana Desai, Jewels on the Crescent: Masterpieces of the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Formerly Prince of Wales Museum of Western India, 134-5",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_010.html"
+    },
+    { 
+        "title": "Royal Asiatic Society 254",
+        
+        
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        "source": "Blumhardt, J. F. Catalogue of the Hindi, Panjabi and Hindustandi Manuscripts in the Library of the British Museum. xii, 84 p., 1 leaf, 91 p. London: Gilbert and Rivington, 1899. //catalog.hathitrust.org/Record/001173291, #45",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_012.html"
+    },
+    { 
+        "title": "Chhatrapata Shivaji Maharaj Vatsu Sangrahalaya M45",
+        
+        "date": "1711",
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "Mumbai, India",
+        
+        
+        "source": "Kalpana Desai, Jewels on the Crescent: Masterpieces of the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Formerly Prince of Wales Museum of Western India, 134-5",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_013.html"
+    },
+    { 
+        "title": "Aga Khan Museum AKM167",
+        
+        "date": "1670",
+        
+        "subject": "Gulshan-i Ishq",
+        "location": "Toronto, Canada",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://agakhanmuseum.org/collection/artifact/sea-serpent-swallows-royal-fleet-akm167",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_014.html"
+    },
+    { 
+        "title": "Punjab University Library 6503",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Lahore, Pakistan",
+        
+        
+        "source": "Catalogue of the Persian Manuscripts in the Punjab University Central Library in Lahore, Pakistan, Vol II (Tehran: Miras-e Maktoob, 2012), p858",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_001.html"
+    },
+    { 
+        "title": "Punjab University Library 8959",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Lahore, Pakistan",
+        
+        
+        "source": "Catalogue of the Persian Manuscripts in the Punjab University Central Library in Lahore, Pakistan, Vol II (Tehran: Miras-e Maktoob, 2012), p859",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_002.html"
+    },
+    { 
+        "title": "Punjab University Library Pi IX 21A / 1230",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Lahore, Pakistan",
+        
+        
+        "source": "Catalogue of the Persian Manuscripts in the Punjab University Central Library in Lahore, Pakistan, Vol II (Tehran: Miras-e Maktoob, 2012), p860",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_003.html"
+    },
+    { 
+        "title": "Punjab University Library Pi IX 35 / 1444",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Lahore, Pakistan",
+        
+        
+        "source": "Catalogue of the Persian Manuscripts in the Punjab University Central Library in Lahore, Pakistan, Vol II (Tehran: Miras-e Maktoob, 2012), p859",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_004.html"
+    },
+    { 
+        "title": "Ganjbakhsh Library 15593",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Islamabad, Pakistan",
+        
+        
+        "source": "Alphabetical Catalogue of the Manuscripts in the Ganjbakhsh Library of Iran Pakistan Institute of Persian Studies, p94",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_005.html"
+    },
+    { 
+        "title": "Ganjbakhsh Library 105",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Islamabad, Pakistan",
+        
+        
+        "source": "Alphabetical Catalogue of the Manuscripts in the Ganjbakhsh Library of Iran Pakistan Institute of Persian Studies, p93",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_006.html"
+    },
+    { 
+        "title": "Ganjbakhsh Library 4465",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Islamabad, Pakistan",
+        
+        
+        "source": "Alphabetical Catalogue of the Manuscripts in the Ganjbakhsh Library of Iran Pakistan Institute of Persian Studies, p94",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_007.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 55",
+        
+        "date": "1712",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #689",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_008.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 56",
+        
+        "date": "1774",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #690",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_009.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 54",
+        
+        "date": "1789",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #691",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_010.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 59",
+        
+        "date": "1836",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #692",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_011.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 57",
+        
+        "date": "1822",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #694",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_012.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 53",
+        
+        "date": "1800",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #693",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_013.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 52",
+        
+        "date": "1902",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #695",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_014.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 58",
+        
+        "date": "1902",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #696",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_015.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 60",
+        
+        "date": "1902",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        "longitude": "78.491684",
+        "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #697",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_016.html"
+    },
+    { 
+        "title": "Khalsa College, Amritsar S. H. R. 2121",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Amritsar, India",
+        
+        
+        "source": "Kirpal Singh, A Catalogue of Persian and Sanskrit Manuscripts in the Sikh History Research Department (Amritsar: Sikh History Research Department, Khalsa College, 1962), #181",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_017.html"
+    },
+    { 
+        "title": "Princeton Islamic Manuscripts New Series no. 1771",
+        
+        "date": "1700",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Princeton, NJ",
+        
+        
+        "source": "https://catalog.princeton.edu/catalog/9972545233506421",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://catalog.princeton.edu/catalog/9972545233506421",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_018.html"
+    },
+    { 
+        "title": "Princeton Islamic Manuscripts, New Series no. 1232",
+        
+        "date": "1700",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Princeton, NJ",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_019.html"
+    },
+    { 
+        "title": "National Archives of Pakistan Adab 82",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Karachi, Pakistan",
+        
+        
+        "source": "Catalogue of the Persian Manuscripts in the National Archives of Pakistan, p734",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_020.html"
+    },
+    { 
+        "title": "Edinburgh University Library call no 1",
+        
+        "date": "1822",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Edinburgh, UK",
+        
+        
+        "source": "Hukk, Ethé, and Robertson, A Descriptive Catalogue of the Arabic and Persian Manuscripts in Edinburgh University Library, #121",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_021.html"
+    },
+    { 
+        "title": "Edinburgh University Library call no 2",
+        
+        "date": "1822",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Edinburgh, UK",
+        
+        
+        "source": "Hukk, Ethé, and Robertson, A Descriptive Catalogue of the Arabic and Persian Manuscripts in Edinburgh University Library, #122",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_022.html"
+    },
+    { 
+        "title": "Hungarian Academy of Science Persza Qu. 38",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Budapest, Hungary",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_023.html"
+    },
+    { 
+        "title": "Hungarian Academy of Science Persza O. 078",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Budapest, Hungary",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_025.html"
+    },
+    { 
+        "title": "Hungarian Academy of Science Persza Qu. 39",
+        
+        
+        
+        "subject": "Bahar-i Danish",
+        "location": "Budapest, Hungary",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_026.html"
+    },
+    { 
+        "title": "McGill University Blacker-Wood Library W1",
+        
+        "date": "1830",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Montreal, Canada",
+        
+        
+        "source": "Adam Gacek, Persian Manuscripts in the Libraries of McGill University #19.",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_027.html"
+    },
+    { 
+        "title": "McGill University Blacker-Wood Library W53",
+        
+        "date": "1821",
+        
+        "subject": "Bahar-i Danish",
+        "location": "Montreal, Canada",
+        
+        
+        "source": "Adam Gacek, Persian Manuscripts in the Libraries of McGill University #19.",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_028.html"
+    },
+    { 
+        "title": "Harvard Houghton Library MS Persian 24",
+        
+        "date": "1732",
+        
+        "subject": "Tutinama",
+        "location": "Cambridge, MA",
+        
+        
+        "source": "Rustam Aliyev, Catalogue of Selected Persian Manuscripts in the Houghton Library, p7",
+        
+        
+        
+        
+        
+        
+        "object_thumb": "https://apjanco.github.io/simsproj2022/objects/tuti_001.png",
+        "object_location": "https://apjanco.github.io/simsproj2022/objects/tuti_001.png",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_001.html"
+    },
+    { 
+        "title": "John Rylands Library University of Manchester Persian MS 215",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Manchester, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_002.html"
+    },
+    { 
+        "title": "John Rylands Library University of Manchester Persian MS 257",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Manchester, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_003.html"
+    },
+    { 
+        "title": "John Rylands Library University of Manchester Persian MS 519",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Manchester, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_004.html"
+    },
+    { 
+        "title": "Eton College Library Pote 274",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Windsor, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_005.html"
+    },
+    { 
+        "title": "Eton College Library Pote 371",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Windsor, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_006.html"
+    },
+    { 
+        "title": "Bodleian Library Ms Bodl. Or. 760",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_007.html"
+    },
+    { 
+        "title": "Bodleian Library MS. Fraser 102",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_008.html"
+    },
+    { 
+        "title": "Bodleian Library MS. Ind. Inst. Pers. 68",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_009.html"
+    },
+    { 
+        "title": "Bodleian Library MS. Ouseley 50",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_010.html"
+    },
+    { 
+        "title": "Bodleian Library MS. Ouseley 85, 86",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_011.html"
+    },
+    { 
+        "title": "Bodleian Library MS. Ouseley 262",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_012.html"
+    },
+    { 
+        "title": "Bodleian Library MS. S. Digby Or. 116",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_013.html"
+    },
+    { 
+        "title": "Bodleian Library MS. S. Digby Or. 162",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_014.html"
+    },
+    { 
+        "title": "Bodleian Library MS. S. Digby Or. 163",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Oxford, UK",
+        "latitude": "51.752022",
+        "longitude": "-1.257677",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_015.html"
+    },
+    { 
+        "title": "SOAS University of London Library ms. 46717",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_016.html"
+    },
+    { 
+        "title": "SOAS University of London Library ms. 44561",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_017.html"
+    },
+    { 
+        "title": "SOAS University of London Library ms. 46521",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "London, UK",
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_018.html"
+    },
+    { 
+        "title": "University of St Andrews Library ms41(o)",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "St Andrews, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_019.html"
+    },
+    { 
+        "title": "Cambridge University Library Ff. 2. 21",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Cambridge, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_020.html"
+    },
+    { 
+        "title": "Cambridge University Library Add. 187",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Cambridge, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_021.html"
+    },
+    { 
+        "title": "Cambridge University Library D. 21",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Cambridge, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_022.html"
+    },
+    { 
+        "title": "Columbia University Rare Book and Manuscript Library X892.8T88 O",
+        
+        "date": "1850",
+        
+        "subject": "Tutinama",
+        "location": "New York, NY",
+        
+        
+        "source": "https://openn.library.upenn.edu/Data/0032/html/X892_8_T88_O.html",
+        
+        
+        
+        
+        
+        
+        "object_thumb": "https://openn.library.upenn.edu/Data/0032/X892_8_T88_O/data/thumb/10944_0004_thumb.jpg",
+        "object_location": "https://openn.library.upenn.edu/Data/0032/html/X892_8_T88_O.html",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_023.html"
+    },
+    { 
+        "title": "Princeton Islamic Manuscripts, New Series no. 1804",
+        
+        "date": "1723",
+        
+        "subject": "Tutinama",
+        "location": "Princeton, NJ",
+        
+        
+        "source": "https://catalog.princeton.edu/catalog/9972805433506421",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "https://catalog.princeton.edu/catalog/9972805433506421",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_024.html"
+    },
+    { 
+        "title": "Edinburgh University Library",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Edinburgh, UK",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_025.html"
+    },
+    { 
+        "title": "Munich",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Munich, Germany",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_026.html"
+    },
+    { 
+        "title": "Leipzig",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Leipzig, Germany",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_027.html"
+    },
+    { 
+        "title": "Berlin",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Berlin, Germany",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_028.html"
+    },
+    { 
+        "title": "Hungarian Academy of Sciences Persza O. 060",
+        
+        
+        
+        "subject": "Tutinama",
+        "location": "Budapest, Hungary",
+        
+        
+        
+        
+        
+        "format": "record",
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_029.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 98",
+        
+        "date": "1722",
+        
+        "subject": "Tutinama",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_030.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 128",
+        
+        "date": "1843",
+        
+        "subject": "Tutinama",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_031.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 189",
+        
+        "date": "1853",
+        
+        "subject": "Tutinama",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_032.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 97",
+        
+        "date": "1822",
+        
+        "subject": "Tutinama",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_033.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 191",
+        
+        "date": "1851",
+        
+        "subject": "Tutinama",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_034.html"
+    },
+    { 
+        "title": "Salar Jung Museum and Library A.N. 190",
+        
+        "date": "1831",
+        
+        "subject": "Tutinama",
+        "location": "Hyderabad, India",
+        "latitude": "17.38714",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_035.html"
+    },
+    { 
+        "title": "McGill University Rare Books & Special Collections Division 13",
+        
+        "date": "1802",
+        
+        "subject": "Tutinama",
+        "location": "Montreal, Canada",
+        
+        
+        "source": "Adam Gacek, Persian Manuscripts in the Libraries of McGill University, 239",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_036.html"
+    },
+    { 
+        "title": "McGill University Blacker-Wood Library 18",
+        
+        "date": "1809",
+        
+        "subject": "Tutinama",
+        "location": "Montreal, Canada",
+        
+        
+        "source": "Adam Gacek, Persian Manuscripts in the Libraries of McGill University, 239",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_037.html"
+    },
+    { 
+        "title": "McGill University Blacker-Wood Library 17",
+        
+        "date": "1900",
+        
+        "subject": "Tutinama",
+        "location": "Montreal, Canada",
+        
+        
+        "source": "Adam Gacek, Persian Manuscripts in the Libraries of McGill University, 239",
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_038.html"
+    },
+    { 
+        "title": "Columbia University Rare Book and Manuscript Library X892.8 Ad9",
+        
+        "date": "1800",
+        
+        "subject": "Haft Sair-i Hatim",
+        "location": "New York, NY",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "https://apjanco.github.io/simsproj2022/items/hatim_001.html"
+    }
+    
 ] }

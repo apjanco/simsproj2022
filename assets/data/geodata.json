@@ -2,5 +2,869 @@
     "type": "FeatureCollection",
     "features": [ 
         
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-75.1652215,39.9525839]
+            },            
+            "properties":{
+                "title": "Free Library of Philadelphia Lewis O 98",
+                
+                "date": "1816",
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "Philadelphia, PA",
+                "latitude": "39.9525839",
+                "longitude": "-75.1652215",
+                
+                
+                
+                
+                
+                
+                
+                "object_thumb": "https://openn.library.upenn.edu/Data/0023/lewis_o_098/data/thumb/9525_0086_thumb.jpg",
+                "object_location": "https://openn.library.upenn.edu/Data/0023/html/lewis_o_098.html",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_001.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-75.1652215,39.9525839]
+            },            
+            "properties":{
+                "title": "Philadelphia Museum of Art 1945-65-22(1a--255b)",
+                
+                "date": "1743",
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "Philadelphia, PA",
+                "latitude": "39.9525839",
+                "longitude": "-75.1652215",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "https://philamuseum.org/collection/object/49733",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_002.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "British Library Or 11721",
+                
+                "date": "1750",
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                "source": "Nur Sobers-Khan, 'Bibliography and notes: Primary sources in the British Library for the study of Hir Ranjha and the Qissa genre and the historical and literary context'",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "https://www.academia.edu/28743063/Bibliography_and_notes_Primary_sources_in_the_British_Library_for_the_study_of_Hir_Ranjha_and_the_Qissa_genre_and_the_historical_and_literary_context_for_the_conference_The_Past_Before_Us_History_and_Heritage_in_South_Asia_British_Library_and_SOAS_London_5_September_2016_",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_003.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "British Library IO Islamic 2621",
+                
+                
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                "source": "J.F. Blumhardt, Catalogue of the Hindustani Manuscripts in the Library of the India Office (London: Oxford University Press, 1926), #104",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "https://babel.hathitrust.org/cgi/pt?id=wau.39352009886508&view=1up&seq=74",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_004.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "British Library IO Islamic 3040",
+                
+                
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                "source": "J.F. Blumhardt, Catalogue of the Hindustani Manuscripts in the Library of the India Office (London: Oxford University Press, 1926), #105",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "https://babel.hathitrust.org/cgi/pt?id=wau.39352009886508&view=1up&seq=75 ",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_005.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "British Library IO Islamic 2486",
+                
+                "date": "1820",
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                "source": "J.F. Blumhardt, Catalogue of the Hindustani Manuscripts in the Library of the India Office (London: Oxford University Press, 1926), #106",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "https://babel.hathitrust.org/cgi/pt?id=wau.39352009886508&view=1up&seq=76 ",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_006.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "British Library IO Islamic 1434",
+                
+                "date": "1820",
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                "source": "J.F. Blumhardt, Catalogue of the Hindustani Manuscripts in the Library of the India Office (London: Oxford University Press, 1926), #107",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "https://babel.hathitrust.org/cgi/pt?id=wau.39352009886508&view=1up&seq=77 ",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_007.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "British Library Or 1059",
+                
+                
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                "source": "J.F. Blumhardt, Catalogue of the Hindi, Panjabi and Hindustandi Manuscripts in the Library of the British Museum, #45",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112084973475&view=1up&seq=78&skin=2021",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_008.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Ms Urdu e2",
+                
+                
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                "source": "Hermann Ethé, Catalogue of the Persian, Turkish, Hindustani and Pashto Manuscripts in the Bodleian Library, vol. 2, 3 vols. (Oxford: Clarendon Press, 1930), #2320",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_009.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum 126",
+                
+                "date": "1699",
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Kalpana Desai, Jewels on the Crescent: Masterpieces of the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Formerly Prince of Wales Museum of Western India, 134-5",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_010.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "Royal Asiatic Society 254",
+                
+                
+                
+                "subject": "Gulshan-i Ishq",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                "source": "Blumhardt, J. F. Catalogue of the Hindi, Panjabi and Hindustandi Manuscripts in the Library of the British Museum. xii, 84 p., 1 leaf, 91 p. London: Gilbert and Rivington, 1899. //catalog.hathitrust.org/Record/001173291, #45",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/gulshan_012.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 55",
+                
+                "date": "1712",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #689",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_008.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 56",
+                
+                "date": "1774",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #690",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_009.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 54",
+                
+                "date": "1789",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #691",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_010.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 59",
+                
+                "date": "1836",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #692",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_011.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 57",
+                
+                "date": "1822",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #694",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_012.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 53",
+                
+                "date": "1800",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #693",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_013.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 52",
+                
+                "date": "1902",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #695",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_014.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 58",
+                
+                "date": "1902",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #696",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_015.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[78.491684,17.38714]
+            },            
+            "properties":{
+                "title": "Salar Jung Museum and Library A.N. 60",
+                
+                "date": "1902",
+                
+                "subject": "Bahar-i Danish",
+                "location": "Hyderabad, India",
+                "latitude": "17.38714",
+                "longitude": "78.491684",
+                "source": "Muhammad Ashraf, A Concise Descriptive Catalgue of the Persian Manuscripts in the Salar Jung Museum and Library, #697",
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/bahar_016.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library Ms Bodl. Or. 760",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_007.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library MS. Fraser 102",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_008.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library MS. Ind. Inst. Pers. 68",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_009.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library MS. Ouseley 50",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_010.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library MS. Ouseley 85, 86",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_011.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library MS. Ouseley 262",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_012.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library MS. S. Digby Or. 116",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_013.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library MS. S. Digby Or. 162",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_014.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.257677,51.752022]
+            },            
+            "properties":{
+                "title": "Bodleian Library MS. S. Digby Or. 163",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "Oxford, UK",
+                "latitude": "51.752022",
+                "longitude": "-1.257677",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_015.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "SOAS University of London Library ms. 46717",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_016.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "SOAS University of London Library ms. 44561",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_017.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-0.118092,51.509865]
+            },            
+            "properties":{
+                "title": "SOAS University of London Library ms. 46521",
+                
+                
+                
+                "subject": "Tutinama",
+                "location": "London, UK",
+                "latitude": "51.509865",
+                "longitude": "-0.118092",
+                
+                
+                
+                
+                
+                
+                
+                
+                "object_location": "",
+                "reference_url": "https://apjanco.github.io/simsproj2022/items/tuti_018.html"
+            }
+        }
     ]
 }

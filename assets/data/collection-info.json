@@ -8,9 +8,11 @@
         "url": "", 
         "logo": "" 
     },
-    "date_start": "",
-    "date_end": "",
+    "date_start": "1670",
+    "date_end": "1902",
     "objects": {
+        null: "0",
+        "record": "1"
         
     },
     "data": "https://apjanco.github.io/simsproj2022/assets/data/datapackage.json",

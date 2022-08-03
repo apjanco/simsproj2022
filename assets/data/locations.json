@@ -1,3 +1,25 @@
 { "locations": [
-    
+    { "location" : "hyderabad, india", "count" : 16, "link" : "https://apjanco.github.io/simsproj2022/browse.html#hyderabad,%20india" },
+    { "location" : "london, uk", "count" : 10, "link" : "https://apjanco.github.io/simsproj2022/browse.html#london,%20uk" },
+    { "location" : "oxford, uk", "count" : 10, "link" : "https://apjanco.github.io/simsproj2022/browse.html#oxford,%20uk" },
+    { "location" : "montreal, canada", "count" : 5, "link" : "https://apjanco.github.io/simsproj2022/browse.html#montreal,%20canada" },
+    { "location" : "lahore, pakistan", "count" : 4, "link" : "https://apjanco.github.io/simsproj2022/browse.html#lahore,%20pakistan" },
+    { "location" : "budapest, hungary", "count" : 4, "link" : "https://apjanco.github.io/simsproj2022/browse.html#budapest,%20hungary" },
+    { "location" : "islamabad, pakistan", "count" : 3, "link" : "https://apjanco.github.io/simsproj2022/browse.html#islamabad,%20pakistan" },
+    { "location" : "princeton, nj", "count" : 3, "link" : "https://apjanco.github.io/simsproj2022/browse.html#princeton,%20nj" },
+    { "location" : "edinburgh, uk", "count" : 3, "link" : "https://apjanco.github.io/simsproj2022/browse.html#edinburgh,%20uk" },
+    { "location" : "manchester, uk", "count" : 3, "link" : "https://apjanco.github.io/simsproj2022/browse.html#manchester,%20uk" },
+    { "location" : "cambridge, uk", "count" : 3, "link" : "https://apjanco.github.io/simsproj2022/browse.html#cambridge,%20uk" },
+    { "location" : "philadelphia, pa", "count" : 2, "link" : "https://apjanco.github.io/simsproj2022/browse.html#philadelphia,%20pa" },
+    { "location" : "windsor, uk", "count" : 2, "link" : "https://apjanco.github.io/simsproj2022/browse.html#windsor,%20uk" },
+    { "location" : "new york, ny", "count" : 2, "link" : "https://apjanco.github.io/simsproj2022/browse.html#new%20york,%20ny" },
+    { "location" : "mumbai, india", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#mumbai,%20india" },
+    { "location" : "toronto, canada", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#toronto,%20canada" },
+    { "location" : "amritsar, india", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#amritsar,%20india" },
+    { "location" : "karachi, pakistan", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#karachi,%20pakistan" },
+    { "location" : "cambridge, ma", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#cambridge,%20ma" },
+    { "location" : "st andrews, uk", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#st%20andrews,%20uk" },
+    { "location" : "munich, germany", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#munich,%20germany" },
+    { "location" : "leipzig, germany", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#leipzig,%20germany" },
+    { "location" : "berlin, germany", "count" : 1, "link" : "https://apjanco.github.io/simsproj2022/browse.html#berlin,%20germany" }
 ]}

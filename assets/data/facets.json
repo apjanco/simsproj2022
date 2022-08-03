@@ -3,6 +3,10 @@
         {
             "field": "subject",
             "terms": { 
+                "tutinama": 38,
+                "bahar-i danish": 27,
+                "gulshan-i ishq": 13,
+                "haft sair-i hatim": 1
             }
         },
         {
@@ -13,6 +17,7 @@
         {
             "field": "format",
             "terms": { 
+                "record": 1
             }
         }
         

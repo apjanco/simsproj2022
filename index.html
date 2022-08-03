@@ -186,7 +186,10 @@
 </div><script>
     /* add item data */
     // title,objectid,image_thumb/small
-    var carouselItems = [ ];
+    var carouselItems = [ [ "Free Library of Philadelphia Lewis O 98", "gulshan_001", 
+    "https://openn.library.upenn.edu/Data/0023/lewis_o_098/data/thumb/9525_0086_thumb.jpg" ], [ "Harvard Houghton Library MS Persian 24", "tuti_001", 
+    "/simsproj2022/objects/tuti_001.png" ], [ "Columbia University Rare Book and Manuscript Library X892.8T88 O", "tuti_023", 
+    "https://openn.library.upenn.edu/Data/0032/X892_8_T88_O/data/thumb/10944_0004_thumb.jpg" ]];
     /* shuffle items */
     carouselItems.sort(function() { return 0.5 - Math.random() });
 
@@ -196,7 +199,7 @@
     var slides = "";
     var indicators = "";
     var i, itemImg, itemLink;
-    for (i=0; i < 0; i++) {
+    for (i=0; i < 3; i++) {
         // calculate item image location
         itemImg = carouselItems[i][2];
         // calculate item link
@@ -228,7 +231,7 @@
     <div class="card mb-3">
   <div class="card-body">
     <h5 class="card-title">Time Span</h5>
-    <p class="card-text h5"> to 
+    <p class="card-text h5">1670 to 1902
       <br><a href="/simsproj2022/timeline.html" class="btn btn-sm btn-outline-secondary mt-2">View Timeline</a>
     </p>
   </div>
@@ -241,7 +244,10 @@
         <h5 class="card-title">Top Subjects</h5>
         <p class="card-text">
             
-            <a class="btn btn-sm btn-info m-1" href="/simsproj2022/browse.html"></a>
+            <a class="btn btn-sm btn-info m-1" href="/simsproj2022/browse.html#tutinama">tutinama</a>
+            <a class="btn btn-sm btn-info m-1" href="/simsproj2022/browse.html#bahar-i%20danish">bahar-i danish</a>
+            <a class="btn btn-sm btn-info m-1" href="/simsproj2022/browse.html#gulshan-i%20ishq">gulshan-i ishq</a>
+            <a class="btn btn-sm btn-info m-1" href="/simsproj2022/browse.html#haft%20sair-i%20hatim">haft sair-i hatim</a>
         </p>
     </div>
 </div>
@@ -253,7 +259,11 @@
         <h5 class="card-title">Locations</h5>
         <p class="card-text">
             
-            <a class="btn btn-sm btn-outline-secondary m-1" href="/simsproj2022/browse.html"></a>
+            <a class="btn btn-sm btn-outline-secondary m-1" href="/simsproj2022/browse.html#hyderabad,%20india">hyderabad, india</a>
+            <a class="btn btn-sm btn-outline-secondary m-1" href="/simsproj2022/browse.html#london,%20uk">london, uk</a>
+            <a class="btn btn-sm btn-outline-secondary m-1" href="/simsproj2022/browse.html#oxford,%20uk">oxford, uk</a>
+            <a class="btn btn-sm btn-outline-secondary m-1" href="/simsproj2022/browse.html#montreal,%20canada">montreal, canada</a>
+            <a class="btn btn-sm btn-outline-secondary m-1" href="/simsproj2022/browse.html#lahore,%20pakistan">lahore, pakistan</a>
         </p>
     </div>
 </div>
@@ -263,6 +273,14 @@
   <div class="card-body">
     <h5 class="card-title">Objects</h5>
     <p class="card-text">
+      
+      1
+       
+      <a class="text-dark" href="/simsproj2022/browse.html#image">Images <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/simsproj2022/assets/lib/cb-icons.svg#icon-image"/></svg></a><br>
+      
+      28
+      
+      <a class="text-dark" href="/simsproj2022/browse.html#record">Records <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/simsproj2022/assets/lib/cb-icons.svg#icon-default"/></svg></a><br>
       <a class="btn btn-sm btn-outline-secondary mt-2" href="/simsproj2022/data.html">View table</a>
     </p>
   </div>

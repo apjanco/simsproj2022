@@ -22,5 +22,1901 @@
     </ListMetadataFormats>
     <ListRecords metadataPrefix="oai_dc">
         
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_001</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Free Library of Philadelphia Lewis O 98</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1816</dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_001</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_002</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Philadelphia Museum of Art 1945-65-22(1a--255b)</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1743</dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_002</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_003</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>British Library Or 11721</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1750</dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_003</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_004</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>British Library IO Islamic 2621</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_004</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_005</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>British Library IO Islamic 3040</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_005</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_005.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_006</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>British Library IO Islamic 2486</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1820</dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_006</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_007</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>British Library IO Islamic 1434</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1820</dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_007</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_008</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>British Library Or 1059</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_008</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_009</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Ms Urdu e2</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_009</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_009.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_010</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum 126</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1699</dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_010</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_010.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_012</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Royal Asiatic Society 254</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_012</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_012.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_013</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Chhatrapata Shivaji Maharaj Vatsu Sangrahalaya M45</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1711</dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_013</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_013.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/gulshan_014</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Aga Khan Museum AKM167</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1670</dc:date><dc:description></dc:description>
+                    <dc:subject>Gulshan-i Ishq</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>gulshan_014</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/gulshan_014.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_001</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Punjab University Library 6503</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_001</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_002</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Punjab University Library 8959</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_002</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_003</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Punjab University Library Pi IX 21A / 1230</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_003</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_004</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Punjab University Library Pi IX 35 / 1444</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_004</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_005</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ganjbakhsh Library 15593</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_005</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_005.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_006</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ganjbakhsh Library 105</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_006</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_007</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ganjbakhsh Library 4465</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_007</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_008</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 55</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1712</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_008</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_009</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 56</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1774</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_009</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_009.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_010</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 54</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1789</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_010</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_010.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_011</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 59</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1836</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_011</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_011.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_012</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 57</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1822</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_012</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_012.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_013</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 53</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1800</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_013</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_013.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_014</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 52</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1902</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_014</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_014.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_015</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 58</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1902</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_015</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_015.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_016</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 60</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1902</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_016</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_016.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_017</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Khalsa College, Amritsar S. H. R. 2121</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_017</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_017.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_018</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Princeton Islamic Manuscripts New Series no. 1771</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1700</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_018</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_018.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_019</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Princeton Islamic Manuscripts, New Series no. 1232</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1700</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_019</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_019.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_020</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>National Archives of Pakistan Adab 82</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_020</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_020.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_021</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Edinburgh University Library call no 1</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1822</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_021</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_021.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_022</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Edinburgh University Library call no 2</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1822</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_022</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_022.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_023</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Hungarian Academy of Science Persza Qu. 38</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_023</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_023.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_025</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Hungarian Academy of Science Persza O. 078</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_025</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_025.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_026</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Hungarian Academy of Science Persza Qu. 39</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_026</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_026.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_027</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>McGill University Blacker-Wood Library W1</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1830</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_027</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_027.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/bahar_028</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>McGill University Blacker-Wood Library W53</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1821</dc:date><dc:description></dc:description>
+                    <dc:subject>Bahar-i Danish</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>bahar_028</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/bahar_028.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_001</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Harvard Houghton Library MS Persian 24</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1732</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_001</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_002</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>John Rylands Library University of Manchester Persian MS 215</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_002</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_003</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>John Rylands Library University of Manchester Persian MS 257</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_003</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_004</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>John Rylands Library University of Manchester Persian MS 519</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_004</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_005</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Eton College Library Pote 274</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_005</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_005.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_006</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Eton College Library Pote 371</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_006</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_007</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library Ms Bodl. Or. 760</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_007</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_008</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library MS. Fraser 102</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_008</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_009</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library MS. Ind. Inst. Pers. 68</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_009</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_009.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_010</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library MS. Ouseley 50</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_010</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_010.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_011</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library MS. Ouseley 85, 86</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_011</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_011.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_012</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library MS. Ouseley 262</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_012</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_012.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_013</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library MS. S. Digby Or. 116</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_013</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_013.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_014</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library MS. S. Digby Or. 162</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_014</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_014.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_015</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Bodleian Library MS. S. Digby Or. 163</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_015</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_015.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_016</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>SOAS University of London Library ms. 46717</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_016</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_016.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_017</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>SOAS University of London Library ms. 44561</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_017</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_017.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_018</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>SOAS University of London Library ms. 46521</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_018</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_018.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_019</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>University of St Andrews Library ms41(o)</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_019</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_019.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_020</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Cambridge University Library Ff. 2. 21</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_020</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_020.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_021</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Cambridge University Library Add. 187</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_021</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_021.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_022</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Cambridge University Library D. 21</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_022</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_022.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_023</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Columbia University Rare Book and Manuscript Library X892.8T88 O</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1850</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_023</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_023.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_024</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Princeton Islamic Manuscripts, New Series no. 1804</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1723</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_024</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_024.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_025</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Edinburgh University Library</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_025</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_025.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_026</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Munich</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_026</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_026.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_027</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Leipzig</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_027</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_027.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_028</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Berlin</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_028</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_028.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_029</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Hungarian Academy of Sciences Persza O. 060</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_029</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_029.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_030</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 98</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1722</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_030</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_030.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_031</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 128</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1843</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_031</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_031.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_032</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 189</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1853</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_032</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_032.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_033</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 97</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1822</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_033</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_033.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_034</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 191</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1851</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_034</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_034.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_035</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Salar Jung Museum and Library A.N. 190</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1831</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_035</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_035.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_036</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>McGill University Rare Books &amp; Special Collections Division 13</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1802</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_036</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_036.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_037</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>McGill University Blacker-Wood Library 18</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1809</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_037</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_037.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/tuti_038</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>McGill University Blacker-Wood Library 17</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1900</dc:date><dc:description></dc:description>
+                    <dc:subject>Tutinama</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>tuti_038</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/tuti_038.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:apjanco.github.io:simsproj2022/hatim_001</oai:identifier> 
+                <oai:datestamp>2022-08-03</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Columbia University Rare Book and Manuscript Library X892.8 Ad9</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1800</dc:date><dc:description></dc:description>
+                    <dc:subject>Haft Sair-i Hatim</dc:subject>
+                    <dc:type></dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>hatim_001</dc:identifier>
+                    <dc:identifier>https://apjanco.github.io/simsproj2022/items/hatim_001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
     </ListRecords>
 </Repository>
